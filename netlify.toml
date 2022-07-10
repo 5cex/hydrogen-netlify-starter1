@@ -1,6 +1,6 @@
 [build]
 publish = "dist/client"
-command = "sanity build"
+command = "sanity start"
 
 [dev]
 framework = "#static"
